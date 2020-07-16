@@ -1,1 +1,1 @@
-print("NEW WORD")
+print("NEW WORK")
